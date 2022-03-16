@@ -1,19 +1,15 @@
-#Andrey Rafalsky
+# Andrey Rafalsky
 ****************
-##My contact information:
+## My contact information:
 ****************
 * **Phone:** +375 29 586-81-32
 * **E-mail:** andraffal@gmail.com
-* **Telegram:** [https://t.me/Rafa_lsky](@Rafa_lsky)
+* **Telegram:** [https://t.me/Rafa_lsky]("Rafa_lsky")
 * **GitHub:** [https://github.com/Slanx](Slanx)
 * **LinkedIN:** [www.linkedin.com/in/Slanx](Slanx)
-* **Discord:** []
+* **Discord:** Rafa(@Slanx)
 ****************
-##About me
-****************
-Lorem
-****************
-##Skills
+## Skills
 ****************
 * HTML5
 * CSS3(SASS/SCSS, BEM)
