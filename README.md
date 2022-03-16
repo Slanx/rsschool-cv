@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Slanx.github.io/rsschool-cv/cv
