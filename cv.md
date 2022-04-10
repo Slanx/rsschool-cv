@@ -5,7 +5,7 @@
 * **E-mail:** andraffal@gmail.com
 * **Telegram:** [Rafa_lsky](https://t.me/Rafa_lsky)
 * **GitHub:** [Slanx](https://github.com/Slanx)
-* **Linkedin:** [Slanx]([www.linkedin.com/in/Slanx)
+* **Linkedin:** [Slanx](www.linkedin.com/in/Slanx)
 * **Discord:** Rafa(@Slanx)
 
 ## About me
